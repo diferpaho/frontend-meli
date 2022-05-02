@@ -8,8 +8,8 @@ app.use(express.json())
 let items = 
     {
         "author": {
-            "name": "d",
-            "lastname": "f",
+            "name": "diego",
+            "lastname": "palacios",
         },
         "categorie": "smartphones",
         "items": [
@@ -78,8 +78,8 @@ let items =
 let base = 
     {
         "author": {
-            "name": "d",
-            "lastname": "f",
+            "name": "diego",
+            "lastname": "palacios",
         },
         "categorie": "smartphones",
         
