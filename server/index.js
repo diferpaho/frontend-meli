@@ -82,8 +82,6 @@ let base =
             "lastname": "palacios",
         },
         "categorie": "smartphones",
-        
-        
     }
 
 
