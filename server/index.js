@@ -11,7 +11,7 @@ let items =
             "name": "diego",
             "lastname": "palacios",
         },
-        "categorie": "smartphones",
+        "categorie": "Tecnología",
         "items": [
             {
                 "id": "1",
@@ -69,6 +69,34 @@ let items =
                 "free_shipping": true,
                 "sold_quantity": 1,
                 "description": "Para complementarla, cuenta con una cámara Telemacro para poder acercarse a solo 3 cm y hacer zoom, verás cosas increibles que nunca antes habías visto; con Cine Magia, podrás hacer efectos de video avanzados desde el celular sin necesidad de equipo adicional o programas avanzados; la pantalla AMOLED de 6.67 Full HD+, 120 Hercios y compatible con Dolby Atmos, es ideal para ver películas, series, jugar y ver todo como si estuvieras abriendo una ventana, verás todo con lujo de color y detalle; Su cerebro, elSnapdragon 888 es el procesador más poderoso de la marca hasta el momento, haciendo que el desempeño sea muy ágil, solo tendrás fluidez mientrás lo usas; con una enorme batería de 5000 mAh, podrás usarlo en cualquier momento sin temor a que la batería se agote y si eres de los que no tiene mucho tiempo para cargarla, en tan solo 17 minutos aproximadamente llega de 0 a 100%, con nuestra tecnolgia Hypercharge"
+            },
+            {
+                "id": "5",
+                "title": "TV SAMSUNG 60 Pulgadas",
+                "price": {
+                    "currency": "COP",
+                    "amount": 2599900,
+                    "decimals": 0,
+                },
+                "picture": "https://images.samsung.com/is/image/samsung/p6pim/latin/un50au9000pxpa/gallery/latin-crystal-uhd-au9000-un50au9000pxpa-417824913?$720_576_PNG$",
+                "condition": "nuevo",
+                "free_shipping": true,
+                "sold_quantity": 1,
+                "description": "Para complementarla, cuenta con una cámara Telemacro para poder acercarse a solo 3 cm y hacer zoom, verás cosas increibles que nunca antes habías visto; con Cine Magia, podrás hacer efectos de video avanzados desde el celular sin necesidad de equipo adicional o programas avanzados; la pantalla AMOLED de 6.67 Full HD+, 120 Hercios y compatible con Dolby Atmos, es ideal para ver películas, series, jugar y ver todo como si estuvieras abriendo una ventana, verás todo con lujo de color y detalle; Su cerebro, elSnapdragon 888 es el procesador más poderoso de la marca hasta el momento, haciendo que el desempeño sea muy ágil, solo tendrás fluidez mientrás lo usas; con una enorme batería de 5000 mAh, podrás usarlo en cualquier momento sin temor a que la batería se agote y si eres de los que no tiene mucho tiempo para cargarla, en tan solo 17 minutos aproximadamente llega de 0 a 100%, con nuestra tecnolgia Hypercharge"
+            },
+            {
+                "id": "6",
+                "title": "TV LG 43 Pulgadas",
+                "price": {
+                    "currency": "COP",
+                    "amount": 1749900,
+                    "decimals": 0,
+                },
+                "picture": "https://tauretcomputadores.com/images/products/Product_202201251831481790013372.png",
+                "condition": "usado",
+                "free_shipping": true,
+                "sold_quantity": 1,
+                "description": "Imágenes sin igual en tu hogar con este LG UHD Smart TV. Los programas que quieres ver se reproducen en calidad 4K Real con mayor detalle, los colores, sonidos y lugares toman una mejor perspectiva con el procesador Alpha 5 que potencializa cada contenido para vivir una experiencia inmersiva, el cine en calidad cinematográfica se disfruta en casa con Fillmaker Mode y HDR pues logran suavizar la imagen y mostrarla como la imaginó su creador, además cuenta con una varita mágica: el Control Remoto que es fácil e intuitivo, escucha tu voz para responder en segundos con tu búsqueda deseada. La vida es buena cuando tienes un televisor LG, superior en todos los aspectos ¡lleva el tuyo ahora!"
             }
         ]
     }
